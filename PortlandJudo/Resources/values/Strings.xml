@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">PortlandJudo</string>
+  <string name="ApplicationName"></string>
+  <string name ="openDrawer">Open Drawer</string>
+  <string name ="closeDrawer">Close Drawer</string>
+  <string name ="empty_title"></string>
 </resources>
