@@ -26,6 +26,7 @@ namespace PortlandJudo
 		
 		public static void UpdateIdValues()
 		{
+			global::FacebookMonoDroid.Resource.String.library_name = global::PortlandJudo.Resource.String.library_name;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::PortlandJudo.Resource.Attribute.actionBarSize;
 		}
 		
@@ -2994,8 +2995,8 @@ namespace PortlandJudo
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f080026
-			public const int ApplicationName = 2131230758;
+			// aapt resource value: 0x7f080027
+			public const int ApplicationName = 2131230759;
 			
 			// aapt resource value: 0x7f08000f
 			public const int abc_action_bar_home_description = 2131230735;
@@ -3054,6 +3055,9 @@ namespace PortlandJudo
 			// aapt resource value: 0x7f080021
 			public const int abc_toolbar_collapse_description = 2131230753;
 			
+			// aapt resource value: 0x7f08002b
+			public const int app_id = 2131230763;
+			
 			// aapt resource value: 0x7f080023
 			public const int appbar_scrolling_view_behavior = 2131230755;
 			
@@ -3063,11 +3067,14 @@ namespace PortlandJudo
 			// aapt resource value: 0x7f080025
 			public const int character_counter_pattern = 2131230757;
 			
-			// aapt resource value: 0x7f080028
-			public const int closeDrawer = 2131230760;
-			
 			// aapt resource value: 0x7f080029
-			public const int empty_title = 2131230761;
+			public const int closeDrawer = 2131230761;
+			
+			// aapt resource value: 0x7f08002a
+			public const int empty_title = 2131230762;
+			
+			// aapt resource value: 0x7f080026
+			public const int library_name = 2131230758;
 			
 			// aapt resource value: 0x7f080000
 			public const int mr_button_content_description = 2131230720;
@@ -3114,8 +3121,11 @@ namespace PortlandJudo
 			// aapt resource value: 0x7f08000e
 			public const int mr_user_route_category_name = 2131230734;
 			
-			// aapt resource value: 0x7f080027
-			public const int openDrawer = 2131230759;
+			// aapt resource value: 0x7f080028
+			public const int openDrawer = 2131230760;
+			
+			// aapt resource value: 0x7f08002c
+			public const int secret = 2131230764;
 			
 			// aapt resource value: 0x7f080022
 			public const int status_bar_notification_info_overflow = 2131230754;
